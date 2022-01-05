@@ -51,7 +51,7 @@ A summary of the access policies in place can be found in the table below.
 
 ### Elk Configuration
 
-Ansible was used to automate configuration of the ELK machine. No configuration was performed manually, which is advantageous because using automation for multiple machines versus manually configuring each machine saves valuable time.
+Ansible was used to automate configuration of the ELK machine. No configuration was performed manually. The advantage that comes with automation is that multiple machines can be configured consistently and quickly. In this scenario of a single machine the time savings was small but in a scenario where hundreds or thousands of machines are to be configured the time savings is of considerable value.
 
 The playbook implements the following tasks:
 - Istall docker.io
