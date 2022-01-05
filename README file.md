@@ -84,7 +84,7 @@ SSH into the control node and follow the steps below:
 - Copy the _____ file to _____.
 - Update the hosts file to include the internal IP of the VM you intend to install the ELK server on. Add the IP address under the section [elk]. (section can be added to the file if it isn't already there.
 
-![]xxxx
+![](https://github.com/Anise94/Secure-Cloud-Network-using-ELK-stack/blob/main/Images/Hosts%20file%20-%20elk%20section.png)
 
 - Run the playbook, and navigate to ____ to check that the installation worked as expected.
 
