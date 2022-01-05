@@ -67,9 +67,7 @@ The following screenshot displays the result of running `docker ps` after succes
 ![](https://github.com/Anise94/Secure-Cloud-Network-using-ELK-stack/blob/main/Images/ELK%20VM%20with%20docker%20ps%20command.png)
 
 ### Target Machines & Beats
-This ELK server is configured to monitor the following machines:
--10.0.0.5
--10.0.0.6
+This ELK server is configured to monitor the following machines: 10.0.0.5, 10.0.0.6
 
 We have installed the following Beats on these machines:
 - Filebeat
