@@ -2,7 +2,7 @@
 
 The files in this repository were used to configure the network depicted below.
 
-![](https://github.com/Anise94/Secure-Cloud-Network-using-ELK-stack/blob/main/Images/_Megan%20Kreger's%20Cloud%20Network%20with%20ELK%20VM)
+![](Images/_Megan%20Kreger's%20Cloud%20Network%20with%20ELK%20VM)
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the Ansible YAML file may be used to install only certain pieces of it, such as Filebeat.
 
